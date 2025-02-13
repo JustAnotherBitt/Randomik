@@ -1,4 +1,3 @@
-
 # 🎯 Randomik - Random Number Guessing Game
 
 ## 📝 Introduction
@@ -23,10 +22,11 @@ This is a simple yet engaging terminal-based game where your goal is to guess a 
 1. **Clone or download** the project files.
 2. Open the project folder in **Visual Studio Code**.
 3. Open a terminal and run the following command:
+   
    ```sh
    dotnet run
    ```
-4. Start playing and enjoy!
+5. Start playing and enjoy!
 
 ## 🛠️ Customization
 
